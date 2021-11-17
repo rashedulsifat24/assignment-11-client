@@ -1,0 +1,15 @@
+@media only screen and (max-width: 600px) {
+  .table-style{
+    width: 40%;
+    margin: 0 auto;
+    font-size: 12px;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .table-style{
+    width: 30%;
+    margin: 0 auto;
+    font-size: 10px;
+  }
+}

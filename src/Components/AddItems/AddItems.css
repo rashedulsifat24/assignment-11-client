@@ -1,0 +1,12 @@
+.from-style{
+        display: flex;
+        flex-direction: column;
+        background-color: lightgrey;
+}
+.from-style form input{
+        width: 60%;
+        margin-top: 5px;
+}
+.add-item-style{
+        background-color: lightgrey;
+}
